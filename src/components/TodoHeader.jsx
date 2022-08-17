@@ -23,7 +23,7 @@ export default function TodoHeader({ addTodo }) {
           onChange={(e) => setInput(e.target.value)}
           name="text"
           className="todo-input"
-          placeholder="What do you have planned?"
+          placeholder="What do you have planned??"
           style={{ width: "600px" }}
         />
         <button id="new-task-submit">Add todo</button>

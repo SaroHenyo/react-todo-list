@@ -15,10 +15,11 @@ export default function TodoList() {
 
   return (
     <header>
-      <h1>Task List 2022</h1>
+      <h1>Tast List 2022</h1>
       <TodoHeader addTodo={addTodo} />
       <br />
       <hr />
+      <br />
       <br />
       <br />
       <TodoBody todos={todos} />

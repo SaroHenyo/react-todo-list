@@ -6,8 +6,8 @@ export default function TodoBody({ todos }) {
       <div className="task">
         <div className="content">{todo.text}</div>
         <div className="actions">
-          <button className="edit">Edit</button>
-          <button className="delete">Delete</button>
+          <button className="edit">Edit.</button>
+          <button className="delete">Delete.</button>
         </div>
       </div>
     </div>
